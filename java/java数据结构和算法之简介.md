@@ -1,9 +1,6 @@
 ---
-   tags: 
-   - Markdown
-   - 语言
-   categories:
-   - 技术
+title 简介
+category java数据结构与算法
 ---
 
 # 简介
